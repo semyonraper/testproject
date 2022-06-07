@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\user\source\repos\P23021StudentOOPExampleProject\P13021StudentOOPExampleProject\Main.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Manager.cpp
+  Создание кода...
+  P13021StudentOOPExampleProject.vcxproj -> C:\Users\user\Source\Repos\P23021StudentOOPExampleProject\x64\Debug\P23021StudentOOPExampleProject.exe
